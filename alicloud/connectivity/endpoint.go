@@ -299,4 +299,5 @@ var serviceCodeMapping = map[string]string{
 const (
 	OpenApiGatewayService = "apigateway.aliyuncs.com"
 	OpenSlsService        = "sls.aliyuncs.com"
+	OpenEdasService       = "mhub.cn-hangzhou.aliyuncs.com"
 )
